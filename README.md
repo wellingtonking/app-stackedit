@@ -31,6 +31,8 @@ npm run build --report
 
 ### Project architecture
 
+For a dedicated contributor guide, see [ARCHITECTURE.md](./ARCHITECTURE.md).
+
 StackEdit is a Vue 2 single-page application with a small Node/Express backend.
 As a contributor, the quickest way to get oriented is to think of the project in 5 layers:
 
